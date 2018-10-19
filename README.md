@@ -39,7 +39,7 @@ Download your Facebook data by following [these](https://www.facebook.com/help/2
 1. First you will have to install the needed packages. The script uses Matplotlib to plot. Matplotlib can be installed by typing
 
 ```
-pip3 install matplotlib
+pip install matplotlib
 ```
 
 2. Edit the Python script so that it loads your parsed conversation by replacing the path below to the path of your conversation
